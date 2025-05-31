@@ -5,4 +5,4 @@ NOTE:
 <br>
 For optimal viewing, please open the site in Desktop Mode if you're using a mobile phone
 <br>
-[CLICK HERE TO OPEN](flipkart.html)
+[CLICK HERE TO OPEN](https://vidushi-coder.github.io/Flipkart-Clone/flipkart.html)
