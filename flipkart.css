@@ -289,7 +289,7 @@ body{
 }
 
 .nav-logo{
-    background-image: url("logo1.png");
+    background-image: url("Images/logo1.png");
     height: 44px;
     width: 170px;
     background-size: cover;
@@ -381,7 +381,7 @@ body{
 }
 
 .main-pic{
-    background-image: url("hero.jpg");
+    background-image: url("Images/hero.jpg");
     background-size: cover;
     height: 165px;
 }
